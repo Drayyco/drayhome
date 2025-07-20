@@ -2,7 +2,7 @@
   "servers": [
     {
       "name": "My Tailscale anisette‑v3",
-      "address": "http://10.0.0.37:6969"
+      "address": "http://10.0.0.37:6969",
       "type": "anisette-v3"
     }
   ]
